@@ -1,7 +1,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.txt
 .env
 .venv
 env/
